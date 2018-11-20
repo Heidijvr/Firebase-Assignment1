@@ -11,29 +11,50 @@ body {
   background-position: 0% 30%;
   background-size: cover;
   background-repeat: no-repeat;  
-  text-shadow: rgb(44, 44, 44) 0.3em 0.3em 0.3em;
+  text-shadow: rgb(146, 145, 145) 0.3em 0.3em 0.3em;
 }
 
 #heading {
-  background-color: rgb(229, 235, 222);
-  padding-top: 50px; 
-  font-size: 24px;
+  /* background-color: rgb(229, 235, 222); */
+  background-color: hsla(51, 55%, 78%, 0.774);
+  padding-top: 48px; 
+  font-size: 28px; 
+  text-align: center;
+  font-weight: bold; 
+  color: rgb(88, 88, 88);
+}
+
+#scheduleTable {
+  font-size: 20px;
+  /* color: hsla(51, 55%, 78%, 0.774); */
+  color:rgb(250, 195, 158); */
+ 
+}
+
+tbody {
+  color: rgb(229, 235, 222); 
+  font-weight: bold;
+}
+
+.form-group {
+  font-size: 18px;
 }
 
 .form-control {
   background-color: rgb(229, 235, 222); 
 }
 
-#addButton {
+.addButton {
   background-color: #927e78; 
-  color: white;
+  color:  rgb(48, 48, 48);  
   border-color: #ad928a;
   font-size: 24px;
+  font-weight: bold;
 }
 
-#submit:hover {background-color: #ad928a;}
+.addButton:hover {background-color: #b49d96;}
 
-#submit:active {
+.addButton:active {
   background-color:#927e78;
   box-shadow: 0 5px #70625e;
   transform: translateY(4px);
@@ -41,6 +62,7 @@ body {
 
 .container {
   font-family: 'Fredericka the Great', cursive;
+  font-family: 'Special Elite', cursive;
 }
 
 .text-center {

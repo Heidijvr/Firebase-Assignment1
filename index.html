@@ -6,9 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Firebase</title>
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great|Special+Elite" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet"> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="  crossorigin="anonymous"></script>
@@ -27,7 +28,7 @@
       <div class="container">
 
         <!-- Jumbotron for Title -->
-        <div class="jumbotron" style="background-color: #ad9c97 ; color: white;">
+        <div class="jumbotron" style="background-color: #c0afa9 ; color: white;">
             <h1 class="text-center">
                 <strong>Train Schedule information</strong>
                 <h2 class="text-center">...Have a Great Trip!..</h2>
@@ -39,7 +40,7 @@
                 
          
                 <div class="card">
-                    <div class="card-header" id="heading"><strong>Train Schedule</strong>
+                    <div class="card-header" id="heading"><i class="fas fa-train"></i> <strong>Train Schedule</strong>
                         <div class="card-body"></div>
                     </div>
                 </div>
@@ -83,7 +84,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="firstTimeInput">First Train Time (hh:mm AM/PM)</label>
+                        <label for="firstTimeInput">First Train Time (HH:mm)</label>
                         <input type="time" class="form-control" id="firstTimeInput">
                     </div>
 
@@ -91,7 +92,7 @@
                         <label for="frequencyInput">Frequency</label>
                         <input type="text" class="form-control" id="frequencyInput">
                     </div>
-                    <button type="submit" id="addButton">Submit</button>
+                    <button type="submit" class="addButton">Submit</button>
 
                 </div>
             </div>

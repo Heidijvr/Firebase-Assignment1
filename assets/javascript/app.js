@@ -21,7 +21,7 @@ $("document").ready(function () {
 
         var trainName = $("#trainInput").val();
         var trainDestination = $("#destinationInput").val();
-        var trainTime = moment($("#firstTimeInput").val().trim(), "hh:mm a").format("HH:mm");
+        var trainTime = moment($("#firstTimeInput").val().trim(), "HH:mm a").format("HH:mm");
         var trainFrequency = $("#frequencyInput").val();
 
 
