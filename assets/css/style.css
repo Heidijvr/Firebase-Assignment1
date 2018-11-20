@@ -1,0 +1,48 @@
+/* #scheduleTable th,
+td {
+  display: inline-block;
+  width: 16.575%;
+} */
+
+body {
+  padding: 2rem 2rem;
+  margin-bottom: 0px;
+  background-image: url("../images/train.jpeg");
+  background-position: 0% 30%;
+  background-size: cover;
+  background-repeat: no-repeat;  
+  text-shadow: rgb(44, 44, 44) 0.3em 0.3em 0.3em;
+}
+
+#heading {
+  background-color: rgb(229, 235, 222);
+  padding-top: 50px; 
+  font-size: 24px;
+}
+
+#addButton {
+  background-color: #927e78; 
+  color: white;
+  border-color: #ad928a;
+  font-size: 24px;
+}
+
+#submit:hover {background-color: #ad928a;}
+
+#submit:active {
+  background-color:#927e78;
+  box-shadow: 0 5px #70625e;
+  transform: translateY(4px);
+}
+
+.container {
+  font-family: 'Fredericka the Great', cursive;
+}
+
+.text-center {
+  font-size: 46px;
+}
+
+.form-group {
+  font-weight: bold;
+}
