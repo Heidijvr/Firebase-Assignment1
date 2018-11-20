@@ -20,6 +20,10 @@ body {
   font-size: 24px;
 }
 
+.form-control {
+  background-color: rgb(229, 235, 222); 
+}
+
 #addButton {
   background-color: #927e78; 
   color: white;
