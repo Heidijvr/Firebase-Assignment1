@@ -13,7 +13,7 @@ $("document").ready(function () {
     var trainInfo = firebase.database();
 
     // Button adding employees
-    $("#addButton").on("click", function (event) {
+    $(".addButton").on("click", function (event) {
         console.log("Button clicked!")
         event.preventDefault();
 
