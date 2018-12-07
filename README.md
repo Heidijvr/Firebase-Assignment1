@@ -27,3 +27,17 @@ This project is part of the front-end curriculum for the University of Washingto
 * Adding update and remove buttons for each train. Let the user edit the row's elements -- allow them to change a train's Name,        
   Destination and Arrival Time (and then, by relation, minutes to arrival).
 * Create the webpage so that only users who log into the site with their Google or GitHub accounts can use the site. 
+
+-----
+
+**Built with
+
+* JavaScript
+* jQuery
+* Firebase
+* Moment.js
+* HTML
+* CSS
+* Bootstrap
+* Google fonts
+* Font Awesome
