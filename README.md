@@ -1,6 +1,6 @@
-# Firebase-Assignment1
+## Train Scheduler
 
-## GifTastic
+In this assignment, I created a train schedule application that incorporated Firebase to host arrival and departure data. The app retrieves and manipulates this information with Moment.js. The website also provides up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station [Use the Train Scheduler](
 
 GIPHY API used to create a dynamic web page populated with gifs of choice. The assignment was completed by using JavaScript and jQuery to change the HTML, combined with CSS and images for styling purposes ([Play the GifTastic game](https://heidijvr.github.io/GifTastic/))
  .
