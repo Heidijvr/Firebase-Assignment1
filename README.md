@@ -30,7 +30,7 @@ This project is part of the front-end curriculum for the University of Washingto
 
 -----
 
-**Built with
+**Built with**
 
 * JavaScript
 * jQuery
