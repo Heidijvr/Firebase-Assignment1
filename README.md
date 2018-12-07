@@ -39,5 +39,5 @@ This project is part of the front-end curriculum for the University of Washingto
 * HTML
 * CSS
 * Bootstrap
-* Google fonts
+* Google Fonts
 * Font Awesome
