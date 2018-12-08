@@ -12,7 +12,7 @@ This project is part of the front-end curriculum for the University of Washingto
 
 **Project Requirements:**
 
-* When adding trains, users should be able to submit the following:
+* When using the app, users should be able to submit the following:
   - Train Name
   - Destination 
   - First Train Time -- in military time
