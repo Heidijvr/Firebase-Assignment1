@@ -8,10 +8,6 @@ This project is part of the front-end curriculum for the University of Washingto
 
 -----
 
-
-**Challenges:**
-
-
 **Project Requirements:**
 
 * When using the app, users should be able to submit the following:
