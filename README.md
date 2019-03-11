@@ -1,16 +1,12 @@
 ## Train Scheduler
 
 
-In this assignment, I created a train schedule application that incorporated Firebase to host arrival and departure data. The app retrieves and manipulates this information with Moment.js. The website also provides up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station ([Use the Train Scheduler:smiley:](https://heidijvr.github.io/Train-Scheduler/)).
+In this assignment, I created a train schedule application that incorporated Firebase to host arrival and departure data. The app retrieves and manipulates this information with Moment.js. It also provides up-to-date information about various trains, such as their arrival times and how many minutes remain until they arrive at their station ([Use the Train Scheduler:smiley:](https://heidijvr.github.io/Train-Scheduler/)).
 This project is part of the front-end curriculum for the University of Washington Part-time Coding Bootcamp. 
 
 <img src="https://heidijvr.github.io/Train-Scheduler/assets/images/trainScheduler.png" alt="Train Scheduler">
 
 -----
-
-
-**Challenges:**
-
 
 **Project Requirements:**
 
